@@ -1,1 +1,1 @@
-The folder contain different java files of different parts of the games - Player login , digital cricket , crazy cricket , ticking time , quiz game and hangman.
+The folder contains different java files of different parts of the games - Player login , digital cricket , crazy cricket , ticking time , quiz game and hangman along with the SQL database required to load the games.
